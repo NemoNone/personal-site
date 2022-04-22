@@ -11,7 +11,7 @@
     <groupId>com.star</groupId>
     <artifactId>myblog</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>myblog</name>
+    <name>personal-site</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
