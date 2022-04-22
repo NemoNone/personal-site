@@ -4,13 +4,12 @@
 
 
 ## 当前状况
-核心框架：SpringBoot 2.2.5
-项目构建：jdk1.8、Maven 3
-持久层框架：Mybatis
-模板框架：Thymeleaf
-分页插件：PageHelper
-加密：MD5加密
-运行环境：腾讯云Centos8
++ 核心框架：SpringBoot 2.2.5
++ 项目构建：jdk1.8、Maven 3
++ 持久层框架：Mybatis
++ 模板框架：Thymeleaf
++ 分页插件：PageHelper
++ 加密：MD5加密(对密码加密后放到数据库)
 
 优点：前端很炫，组成样式优秀
 不足：对于博客而言，没有太多不足。但是引用其他组件，存在不少易用性问题（重点）
